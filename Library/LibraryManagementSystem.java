@@ -13,10 +13,10 @@ public class LibraryManagementSystem {
             Some pre-registered user
          */
 
-        userManager.registerUser("raj_dip" , "mati_raj");
-        userManager.registerUser("khalid","rujina_Khaled");
-        userManager.registerUser("parvez","naireet_parvez");
-        userManager.registerUser("hi", "1234");
+        userManager.registerUser("raj_dip" , "raj1022");
+        userManager.registerUser("khalid","rKhaled123");
+        userManager.registerUser("parvej","paRvez55");
+        userManager.registerUser("Adib", "sObur1234");
 
 
         /*
