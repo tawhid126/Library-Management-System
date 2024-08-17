@@ -201,12 +201,12 @@ public class LibraryManagementSystem {
                                     System.out.println("Invalid choice. Please try again.");
                             }
 
-                            if (userChoice == 4) break;
+                            if (userChoice == 6) break;
                         }
                     }
                     break;
 
-                case 3: // Admin functionality
+                case 3: // Admin functionality.
                     System.out.print("Enter Admin Username: ");
                     String adminUsername = sc.nextLine();
                     System.out.print("Enter Admin Password: ");
@@ -223,7 +223,7 @@ public class LibraryManagementSystem {
                     }
                     break;
 
-                case 4: // Admin functionality
+                case 4: // Admin functionality .
                     System.out.print("Enter Admin Username: ");
                     adminUsername = sc.nextLine();
                     System.out.print("Enter Admin Password: ");
